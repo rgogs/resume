@@ -23,14 +23,14 @@ class Project extends Component {
   handleRequest = (e) => {
     axios
       .get(Configs.gitHubLink + Configs.gitHubUsername + Configs.gitHubQuerry)
-      .then(response => {
+      .then((response) => {
         // handle success
         // console.log(response.data.slice(0, 4));
         return this.setState({
-          projectsArray: response.data.slice(0, this.state.projectsLength)
+          projectsArray: response.data.slice(0, this.state.projectsLength),
         });
       })
-      .catch(error => {
+      .catch((error) => {
         // handle error
         return console.error(error.message);
       })
@@ -48,12 +48,8 @@ class Project extends Component {
         <div className="container container-fluid p-5">
           <h1 className="display-4 pb-5">{this.state.heading}</h1>
           <div className="row">
-            {this.state.projectsArray.map(project => (
-              <ProjectCard
-                key={project.id}
-                id={project.id}
-                value={project}
-              />
+            {this.state.projectsArray.map((project) => (
+              <ProjectCard key={project.id} id={project.id} value={project} />
             ))}
           </div>
         </div>
@@ -62,4 +58,4 @@ class Project extends Component {
   }
 }
 
-export default  Project;
+export default Project;

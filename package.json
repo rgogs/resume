@@ -1,33 +1,35 @@
 {
+  "hompage": "http://rgogs.github.io/PersonalWebsite",
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://hamzasohail0.github.io/home",
+  "homepage": "https:/github.com/rgogs",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Ralph Goguanco",
+    "email": "goguancoralph@gmail.com",
+    "url": "https:/github.com/rgogs"
   },
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
     "react": "^16.13.0",
+    "react-bootstrap": "^2.9.1",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.0",
     "react-typist": "^2.0.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deply": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -43,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

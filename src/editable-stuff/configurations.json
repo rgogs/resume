@@ -2,7 +2,7 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "devIntro": "Ralph Goguanco",
-  "devDesc": " Engineer | Programmer ",
+  "devDesc": " IT | Programmer ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "icons": [
     {
@@ -34,7 +34,7 @@
   "instaUsername": "ralphgog",
   "instaQuerry": "/?__a=1",
   "showInstaProfilePic": true,
-  "aboutDev": "I am an engineering student with a pragmatic approach towards the solution of complex engineering problems with the eagerness to use my skills, both technical and managerial, to contribute towards the betterment of company and society.",
+  "aboutDev": "Welcome to my website! I'm Ralph, a passionate web developer with a robust background in IT and web management. With years of experience in creating dynamic and user-friendly websites, I specialize in turning complex ideas into elegant digital solutions. My expertise ranges from front-end development to back-end programming, ensuring that every project I undertake is both visually appealing and functionally superior.  In addition to my web development skills, I am proficient with both software and hardware, offering comprehensive IT solutions. Whether it's troubleshooting, network management, or general IT support, I bring a well-rounded skill set to the table. I am dedicated to continuous learning and keeping up with the latest industry trends to deliver cutting-edge services to my clients.  Let's build something amazing together!",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "rgogs",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",

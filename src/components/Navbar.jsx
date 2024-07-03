@@ -13,12 +13,7 @@ const Navigation = () => {
         !isTop ? "navbar-white" : "navbar-transparent"
       }`}
       expand="lg"
-    >
-      <Nav.Link>Home</Nav.Link>
-      <Nav.Link>Projects</Nav.Link>
-      <Nav.Link>Skills</Nav.Link>
-      <Nav.Link>Resume</Nav.Link>
-    </Navbar>
+    ></Navbar>
   );
 };
 

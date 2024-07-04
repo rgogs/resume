@@ -1,8 +1,7 @@
 {
-  "homepage": "https://rgogs.github.io/resume",
+  "homepage": "https://github.com/rgogs/resume.git",
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https:/github.com/rgogs",
   "version": "0.1.0",
   "private": true,
   "author": {
@@ -28,8 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deply": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.9675614a.chunk.css",
-    "main.js": "/resume/static/js/main.37ce3586.chunk.js",
-    "main.js.map": "/resume/static/js/main.37ce3586.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.8b92041c.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.8b92041c.js.map",
-    "static/css/2.80f479d8.chunk.css": "/resume/static/css/2.80f479d8.chunk.css",
-    "static/js/2.e5cf5d09.chunk.js": "/resume/static/js/2.e5cf5d09.chunk.js",
-    "static/js/2.e5cf5d09.chunk.js.map": "/resume/static/js/2.e5cf5d09.chunk.js.map",
-    "index.html": "/resume/index.html",
-    "precache-manifest.ee313890ccb0b3e60bb082af5a3655e3.js": "/resume/precache-manifest.ee313890ccb0b3e60bb082af5a3655e3.js",
-    "service-worker.js": "/resume/service-worker.js",
-    "static/css/2.80f479d8.chunk.css.map": "/resume/static/css/2.80f479d8.chunk.css.map",
-    "static/css/main.9675614a.chunk.css.map": "/resume/static/css/main.9675614a.chunk.css.map",
-    "static/js/2.e5cf5d09.chunk.js.LICENSE.txt": "/resume/static/js/2.e5cf5d09.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/resume/static/media/resume.08a51209.pdf"
+    "main.css": "/RalphGoguanco/static/css/main.9675614a.chunk.css",
+    "main.js": "/RalphGoguanco/static/js/main.e8fa88ec.chunk.js",
+    "main.js.map": "/RalphGoguanco/static/js/main.e8fa88ec.chunk.js.map",
+    "runtime-main.js": "/RalphGoguanco/static/js/runtime-main.471ac23a.js",
+    "runtime-main.js.map": "/RalphGoguanco/static/js/runtime-main.471ac23a.js.map",
+    "static/css/2.80f479d8.chunk.css": "/RalphGoguanco/static/css/2.80f479d8.chunk.css",
+    "static/js/2.e5cf5d09.chunk.js": "/RalphGoguanco/static/js/2.e5cf5d09.chunk.js",
+    "static/js/2.e5cf5d09.chunk.js.map": "/RalphGoguanco/static/js/2.e5cf5d09.chunk.js.map",
+    "index.html": "/RalphGoguanco/index.html",
+    "precache-manifest.6faa9534c1cabf92fbeb2d80ce8db653.js": "/RalphGoguanco/precache-manifest.6faa9534c1cabf92fbeb2d80ce8db653.js",
+    "service-worker.js": "/RalphGoguanco/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/RalphGoguanco/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.9675614a.chunk.css.map": "/RalphGoguanco/static/css/main.9675614a.chunk.css.map",
+    "static/js/2.e5cf5d09.chunk.js.LICENSE.txt": "/RalphGoguanco/static/js/2.e5cf5d09.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/RalphGoguanco/static/media/resume.08a51209.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b92041c.js",
+    "static/js/runtime-main.471ac23a.js",
     "static/css/2.80f479d8.chunk.css",
     "static/js/2.e5cf5d09.chunk.js",
     "static/css/main.9675614a.chunk.css",
-    "static/js/main.37ce3586.chunk.js"
+    "static/js/main.e8fa88ec.chunk.js"
   ]
 }
